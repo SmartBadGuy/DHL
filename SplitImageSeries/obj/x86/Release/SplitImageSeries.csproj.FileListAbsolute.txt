@@ -1,0 +1,9 @@
+C:\Documents and Settings\Gebruiker\Mijn documenten\Visual Studio 2010\Projects\SplitImageV0_3\SplitImageSeries\bin\Release\SplitImageSeries.exe
+C:\Documents and Settings\Gebruiker\Mijn documenten\Visual Studio 2010\Projects\SplitImageV0_3\SplitImageSeries\bin\Release\SplitImageSeries.pdb
+C:\Documents and Settings\Gebruiker\Mijn documenten\Visual Studio 2010\Projects\SplitImageV0_3\SplitImageSeries\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Gebruiker\Mijn documenten\Visual Studio 2010\Projects\SplitImageV0_3\SplitImageSeries\obj\x86\Release\SplitImageSeries.Properties.Resources.resources
+C:\Documents and Settings\Gebruiker\Mijn documenten\Visual Studio 2010\Projects\SplitImageV0_3\SplitImageSeries\obj\x86\Release\SplitImageSeries.SplitImageSeriesMainFormVersie2.resources
+C:\Documents and Settings\Gebruiker\Mijn documenten\Visual Studio 2010\Projects\SplitImageV0_3\SplitImageSeries\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Gebruiker\Mijn documenten\Visual Studio 2010\Projects\SplitImageV0_3\SplitImageSeries\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Gebruiker\Mijn documenten\Visual Studio 2010\Projects\SplitImageV0_3\SplitImageSeries\obj\x86\Release\SplitImageSeries.exe
+C:\Documents and Settings\Gebruiker\Mijn documenten\Visual Studio 2010\Projects\SplitImageV0_3\SplitImageSeries\obj\x86\Release\SplitImageSeries.pdb
